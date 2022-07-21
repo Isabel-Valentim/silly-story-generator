@@ -2,7 +2,7 @@ const inputName = document.querySelector('#name')
 const btn = document.querySelector('#btn')
 const storySpace = document.querySelector('#story')
 
-const insert = inputName.value
+
 
 const myarray =[
 
