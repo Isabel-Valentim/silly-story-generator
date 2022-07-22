@@ -3,10 +3,9 @@ const btn = document.querySelector('#btn')
 const storySpace = document.querySelector('#story')
 
 
-
 const myarray =[
 
-`It was 94 fahrenheit outside, so ${insert} went for a walk. When they got to ${insert}, they stared in horror for a few moments, then ${insert}. Bob saw the whole thing, but was not surprised — ${insert} weighs 300 pounds, and it was a hot day.`,
+`It was 94 fahrenheit outside, so ${insert} went for a walk. <br> When they got to ${insert}, they stared in horror for a few moments, then ${insert}. <br> Bob saw the whole thing, but was not surprised — ${insert} weighs 300 pounds, and it was a hot day.`,
 
 "Willy the Goblin <br> Big Daddy <br> Father Christmas",
 
